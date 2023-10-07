@@ -67,3 +67,6 @@
 ### <p align = "center">12. See your Notifications </p>
 ![image](https://github.com/dhruv-goyal-10/Linkedin-Clone-backend/blob/master/project_images/12.png)
 ###
+
+
+For Any issues, Join Our [Discord](https://discord.gg/zqGWtYUk)
